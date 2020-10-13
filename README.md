@@ -1,6 +1,7 @@
 SCREAM APP 
 
 frontend react,redux,docker,nginx 
+
 backend nodejs,express,docker,nginx and postgres
 
 #installation
