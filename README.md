@@ -10,9 +10,10 @@ SCREAM APP
 dockerized api gateway,authentication, profile, scream, image services 
 
 
+
 #installation react 
 
-git fetch https://github.com/gautamaman30/scream-react.git
+git pull https://github.com/gautamaman30/scream-react.git
 
 add links to backend server in redux-action
 
@@ -22,9 +23,10 @@ then run container: docker run -a stdout --name container_name -p 3000:80 repo_n
 
 
 
+
 #installation backend
 
-git fetch https://github.com/gautamaman30/scream-backend.git
+git pull https://github.com/gautamaman30/scream-backend.git
 
 #repeat for each services
 
